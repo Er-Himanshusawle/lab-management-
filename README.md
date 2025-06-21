@@ -1,4 +1,4 @@
 # lab-management-
 Triveni Pathology Lab management 
 <br>
-Author - Himanshu sawle
+Author - Himanshu Sawle
